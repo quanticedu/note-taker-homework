@@ -17,7 +17,7 @@ We would like you to create a small app that allows annotating an article with c
 
 You may choose to integrate with a real backend like Firebase or MongoDB, or persist your data via a browser-side technology like LocalStorage.
 
-#### Ideas for extra credit
+### Ideas for extra credit
 
  - [ ] Create "Library" view with a list of articles to select (these can be hard-coded, or loaded from a remote source)
  - [ ] Show the annotations within the article as highlights (can get creative with this UI)
